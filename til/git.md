@@ -18,3 +18,11 @@ git checkout -b "branchname"
 ```
 git stash -u
 ```
+- How to commit the current staging area to your Git repository
+```
+git commit -m "commit text"
+```
+- How to push the commits to the online repository
+```
+git push -u origin master
+```
