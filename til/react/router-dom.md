@@ -48,7 +48,7 @@ For the location 'home' or its descendant, the UI will be:
 </div>
 ```
 
-```javascript
+```HTML
 <Route exact path='/home' component={HomePage} />
 ```
 For the location 'home' only the UI will be:
