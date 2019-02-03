@@ -20,6 +20,13 @@ import { Switch } from 'react-router-dom';
 A switch renders the first Route or Redirect thats matches.
 If you do not use a Switch, all the matching Route will be renderer. With a Switch only the first one will do.
 
+**Link:**
+Provides declarative, accessible navigation around your application.
+```HTML
+<Link to='/home'>Home</Link>
+```
+Will provide a link to the page '/home'
+
 **Route:**
 ```javascript
 import { Route } from 'react-router-dom';
