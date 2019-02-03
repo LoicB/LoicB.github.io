@@ -30,7 +30,8 @@ export default Footer;
 ```
 
 Then in the main component, includes the two tags:
-```react.jsimport Header from './HeaderComponent';
+```react.js
+import Header from './HeaderComponent';
 import Footer from './FooterComponent';
 . . .
 class Footer extends Component {
