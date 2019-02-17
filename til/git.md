@@ -26,3 +26,7 @@ git commit -m "commit text"
 ```
 git push -u origin master
 ```
+-How to delete a loca branch
+```
+git branch -d the_local_branch
+```
